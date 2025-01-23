@@ -1,0 +1,6 @@
+{
+  "trailingComma": "es5", // Agrega comas al final de las líneas
+  "tabWidth": 2, // Configura el ancho de las tabulaciones (si las usas)
+  "useTabs": false, // Usa espacios en lugar de tabulaciones
+  "endOfLine": "lf" //  Asegura que los finales de línea sean LF
+}
