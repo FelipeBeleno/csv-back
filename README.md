@@ -22,7 +22,7 @@ Este proyecto NestJS proporciona una API para subir archivos CSV, procesarlos y 
 
 ## Instalación:
 
-1. Clona el repositorio: `git clone <URL_DEL_REPOSITORIO>`
+1. Clona el repositorio: `git clone https://github.com/FelipeBeleno/csv-back`
 2. Instala las dependencias: `npm install`
 3. Configura las variables de entorno:
     * `MONGODB_URI`:  URI de conexión a la base de datos MongoDB.
